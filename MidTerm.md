@@ -22,11 +22,15 @@
 
 4. 3 Device IoT Thermostat
 
-답)
+답) https://github.com/iot201-2026-ChoiSujin/Midterm2026_NodeRed
 
 5. 3 Device IoT Thermostat Video
 
-답)
+답) 
+
+https://github.com/user-attachments/assets/042e678e-0eff-4a96-a2db-226f7f6b4ee3
+
+
 
 6. AWS Re Start Lab Check
 
