@@ -41,3 +41,5 @@ https://github.com/user-attachments/assets/042e678e-0eff-4a96-a2db-226f7f6b4ee3
 6. AWS Re Start Lab Check
 
 답)
+<img width="1811" height="772" alt="image" src="https://github.com/user-attachments/assets/8f34b981-e05d-4d90-94ee-70190979d30e" />
+
